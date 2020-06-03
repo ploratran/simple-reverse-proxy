@@ -1,3 +1,4 @@
+# CI using Travis to build Docker image into Docker Hub
 language: node_js
 node_js:
   - 13
